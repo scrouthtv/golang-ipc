@@ -4,7 +4,7 @@ import (
 	"log"
 	"time"
 
-	ipc "github.com/james-barrow/golang-ipc"
+	ipc "github.com/scrouthtv/golang-ipc"
 )
 
 func main() {
